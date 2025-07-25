@@ -3,3 +3,5 @@ joblib
 pandas
 altair
 datetime
+scikit-learn
+catboost
