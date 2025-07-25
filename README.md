@@ -1,7 +1,7 @@
 # SalSat: Employee Salary and Satisfaction Prediction
 Predict your estimated salary and job satisfaction based on developer survey insights from Stack Overflow.
 
-🚀 [Try the Live App](#https://salsat-prediction.streamlit.app/)
+🚀 [Try the Live App](https://salsat-prediction.streamlit.app/)
 
 ## Contents:
 [Overview](#overview) |
