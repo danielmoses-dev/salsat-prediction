@@ -1,7 +1,7 @@
 # SalSat: Employee Salary and Satisfaction Prediction
 Predict your estimated salary and job satisfaction based on developer survey insights from Stack Overflow.
 
-🚀 [Try the Live App](#)
+🚀 [Try the Live App](#https://salsat-prediction.streamlit.app/)
 
 ## Contents:
 [Overview](#overview) |
@@ -52,8 +52,8 @@ The application includes two separately trained models, each optimized for its r
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/salsat.git
-   cd salsat
+   git clone https://github.com/danielmoses-dev/salsat-prediction
+   cd salsat-prediction
    
 2. Activate the virtual environment:
    ```bash
